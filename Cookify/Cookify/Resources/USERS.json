@@ -1,0 +1,18 @@
+[
+    {
+        "username": "jakerobg",
+        "email": "jakeg@middlebury.edu",
+        "password": "test123",
+        "id": 1,
+        "followers": [2, 3],
+        "following": [2, 3],
+        "posts": [
+            {
+                "postId": 1,
+                "postImageURL": "JT-Chocolate-Chip-Cookies-articleLarge",
+                "postTitle": "Cookies",
+                "postDescription": "Made cookies bitch"
+            }
+        ]
+    }
+]
